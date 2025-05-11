@@ -9,29 +9,35 @@ Este repositório reúne projetos acadêmicos e pessoais desenvolvidos ao longo 
 ### 📚 Projetos Acadêmicos
 Projetos realizados durante cursos e disciplinas.
 
-- [Projeto 1] – [construindo códigos com Python]-[codando em python][(https://github.com/user-attachments/assets/0e853583-6fd0-4dfe-99b6-8f156a2ee810).
-- [Projeto 2] – [modelo banco de dados]-[modelando dados][(https://github.com/user-attachments/assets/95c69c22-4b18-4bcc-968c-283ed39827f5).
+- [Projeto 1] – ![codando_ python](https://github.com/user-attachments/assets/4821de01-3ff8-40b1-85ab-0d01e89dabc0)
+
+- [Projeto 2] – ![modelando dados](https://github.com/user-attachments/assets/9b31097c-a326-4bf0-a368-9ec6c1288b65)
+
 
 ### 🛠 Projetos Pessoais
 Projetos desenvolvidos de forma independente com foco em prática, inovação e aprendizado contínuo.
 
 - ([sistematização 1](https://github.com/user-attachments/files/20131143/sistematizacao.1.pdf))
-- ([planilha comércio](https://github.com/user-attachments/assets/78882e52-6b86-459b-a830-ffdd4a4cb501))
+- ([planilha comércio]![planilha_preços](https://github.com/user-attachments/assets/90dee676-8cb6-44f3-b809-362c9af3c056)
 
 ### 🌐 Línguas Faladas
 - **Português (nativo)**
 - **Inglês (intermediário/avançado)** – Leitura técnica e conversação
 
-### 📚 Documentação.
-- [reservista](https://github.com/user-attachments/assets/61a10f08-962c-41df-9f7f-aa29a8cbb193)
-- [histórico escolar](https://github.com/user-attachments/assets/e8117d5f-9481-46d3-8e72-50096ce933d0)
+### 📚 Documentação
+ão.
+- [reservista.pdf](https://github.com/user-attachments/files/20150969/reservista.pdf)
+
+- [histórico escolar](https://github.com/user-attachments/assets/bbd56bf8-7eef-4ea1-a3fd-823982432cf8)
 
 
 ### 🎓 Certificados e Cursos
 Lista e comprovação de cursos realizados, com links e/ou PDFs.
 
-- [Certificado de excell – Curso em Vídeo](https://github.com/user-attachments/assets/31fe0a08-b1fd-4739-a33c-6df53938f678)
-- [Cursando Machine Learning – uniceub](https://github.com/user-attachments/assets/930fa013-a772-4401-9f5f-5a29ef4b9078)
+- [Certificado de excell – ![certificado_curso_excel](https://github.com/user-attachments/assets/3de3b46b-82df-42c5-aa51-14c44760d543)
+
+- [Cursando Machine Learning – uniceub]![matrícula](https://github.com/user-attachments/assets/9335e44b-3a80-4dc0-9192-c0f11c84896d)
+
 
 ## 📫 Contato
 
